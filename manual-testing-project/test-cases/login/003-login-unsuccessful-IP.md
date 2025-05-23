@@ -6,6 +6,7 @@
 **Prioridad:** Alta  
 **Precondiciones:**
 - El usuario debe tener una cuenta creada.
+  
 **Ambiente:** [https://www.demoblaze.com/](https://www.demoblaze.com/)
 
 
