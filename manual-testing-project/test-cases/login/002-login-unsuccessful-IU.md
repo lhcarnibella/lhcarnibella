@@ -1,4 +1,4 @@
-# Caso de Prueba: Login Fallido - Usuario Inexistente
+# Caso de Prueba: Login Fallido - Usuario Inválido
 
 **ID:** TC-002  
 **Nombre:** Login con usuario inválido
