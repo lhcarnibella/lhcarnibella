@@ -9,7 +9,7 @@ Este repositorio forma parte de mi portfolio como QA Analyst. Contiene casos de 
 ## 📌 Índice
 
 - [Objetivo](#objetivo)
-- [Tecnologías / Herramientas](#tecnologias-/-herramientas)
+- [Tecnologías / Herramientas](#tecnologias--herramientas)
 - [Sitio bajo prueba](#sitio-bajo-prueba)
 - [Casos de Prueba](#casos-de-prueba)
 - [Bugs Reportados](#bugs-reportados)
@@ -47,25 +47,22 @@ Cada caso de prueba está estructurado de forma clara y replicable, con pasos de
 ## 🧪 Casos de Prueba 
 Comprueba todos los casos de prueba que escribí.
 
-**- test-cases/login/**
-  -Login exitoso
-  -Login fallido (usuario incorrecto)
-  -Login fallido (password incorrecta)
-  -Logout
+- `test-cases/login/`
+  - Login exitoso
+  - Login fallido (usuario incorrecto)
+  - Login fallido (password incorrecta)
+  - Logout
 
-**- test-cases/register/**
-  -Registro exitoso
-  -Registro con usuario ya existente
-  -Registro con campos vacíos
+- `test-cases/register/`
+  - Registro exitoso
+  - Registro con usuario ya existente
+  - Registro con campos vacíos
 
-**- test-cases/cart/**
-  -Agregar producto al carrito
-  -Eliminar producto del carrito
-  -Comprar producto
+- `test-cases/cart/`
+  - Agregar producto al carrito
+  - Eliminar producto del carrito
+  - Comprar producto
   
-
-
-
 
 ## 🐞 Bugs Reportadps 
 Comprueba todos los bugs reportados encontrados en el sitio.
