@@ -16,7 +16,7 @@
 | 1    | Navegar a la página de login  | Se carga la página correctamente   |
 | 2    | Ingresar usuario válido       | Se muestra el texto ingresado      |
 | 3    | Ingresar contraseña válida    | El texto se ingresa enmascarado     |
-| 4    | Hacer clic en “Login”         | Se redirige al dashboard            |
+| 4    | Hacer clic en “Login”         | Se redirige a la Home Page            |
 
 ---
 
