@@ -18,7 +18,7 @@
 | 1    | Navegar a la página de login  | Se carga la página correctamente   |
 | 2    | Ingresar usuario inválido     | Se muestra el texto ingresado      |
 | 3    | Ingresar contraseña           | Se muestra el texto enmascarado      |
-| 4    | Hacer clic en “Login”         | Se redirige al dashboard            |
+| 4    | Hacer clic en “Login”         | Se muestra el mensaje `"User does not exist."`|
 
 ---
 
