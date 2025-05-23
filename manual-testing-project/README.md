@@ -1,8 +1,18 @@
+![image](https://github.com/user-attachments/assets/beddddfa-1cdc-49b9-be58-00e8f8aa1398)
+
 # 🧪 Proyecto de Testing Manual – Demoblaze
 
 Este repositorio forma parte de mi portfolio como QA Analyst. Contiene casos de prueba funcionales manuales aplicados sobre el sitio [Demoblaze](https://www.demoblaze.com/), una aplicación web de e-commerce utilizada con fines educativos y de práctica.
 
 ---
+
+## 📌 Índice
+
+- [Objetivo](#objetivo)
+- [Tecnologías / Herramientas](#tecnologías-/-herramientas)
+- [Sitio bajo prueba](#sitio-bajo-prueba)
+- [Casos de Prueba](#casos-de-prueba)
+- [Bugs Reportados](#bugs-reportados)
 
 ## 📌 Objetivo
 
@@ -27,3 +37,38 @@ Cada caso de prueba está estructurado de forma clara y replicable, con pasos de
 ---
 
 ## 🌐 Sitio bajo prueba
+
+**URL oficial:** [https://www.demoblaze.com/](https://www.demoblaze.com/)  
+**Tipo de aplicación:** E-commerce  
+**Propósito:** Educativo y libre uso para pruebas funcionales
+
+---
+
+## 🧪 Casos de Prueba 
+Comprueba todos los casos de prueba que escribí.
+
+**- test-cases/login/**
+  --Login exitoso
+  --Login fallido (usuario incorrecto)
+  --Login fallido (password incorrecta)
+  --Logout
+
+**- test-cases/register/**
+  --Registro exitoso
+  --Registro con usuario ya existente
+  --Registro con campos vacíos
+
+**- test-cases/cart/**
+  --Agregar producto al carrito
+  --Eliminar producto del carrito
+  --Comprar producto
+  
+
+
+
+
+## 🐞 Bugs Reportadps 
+Comprueba todos los bugs reportados encontrados en el sitio.
+
+
+
