@@ -1,8 +1,7 @@
 # Caso de Prueba: Login Fallido - Campos vacíos
 
 **ID:** TC-004  
-**Título:** Validar mensaje de error al dejar el campo de usuario o contraseña vacío  
-**Funcionalidad:** Inicio de sesión  
+**Nombre:** Validar mensaje de error al dejar el campo de usuario o contraseña vacío  
 **Prioridad:** Alta  
 **Precondiciones:** 
 - Estar en la página de login  
