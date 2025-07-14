@@ -5,7 +5,7 @@
 **Funcionalidad:** Login  
 **Prioridad:** Alta  
 **Precondición:** Estar en la página de login  
-
+**Ambiente:** [https://www.demoblaze.com/](https://www.demoblaze.com/)
 ---
 
 ## Escenarios
