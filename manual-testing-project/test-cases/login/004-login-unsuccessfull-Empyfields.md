@@ -1,11 +1,14 @@
-# Caso de Prueba: Login - Campos vacíos
+# Caso de Prueba: Login Fallido - Campos vacíos
 
-**ID:** TC_LOGIN_001  
+**ID:** TC-004  
 **Título:** Validar mensaje de error al dejar el campo de usuario o contraseña vacío  
-**Funcionalidad:** Login  
+**Funcionalidad:** Inicio de sesión  
 **Prioridad:** Alta  
-**Precondición:** Estar en la página de login  
+**Precondiciones:** 
+- Estar en la página de login  
+
 **Ambiente:** [https://www.demoblaze.com/](https://www.demoblaze.com/)
+
 ---
 
 ## Escenarios
