@@ -1,5 +1,6 @@
 # Caso de Prueba: Login Fallido - Intento de SQL Injection
 
+**ID:** TC-006
 **Funcionalidad:** Login  
 **Prioridad:** Alta (Seguridad)  
 **Precondición:** N/A  
