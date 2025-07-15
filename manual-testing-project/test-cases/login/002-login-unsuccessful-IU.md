@@ -2,7 +2,7 @@
 
 **ID:** TC-002  
 **Nombre:** Login con usuario inválido
-**Funcionalidad:** Inicio de sesión  
+**Funcionalidad:** Login
 **Prioridad:** Alta  
 **Precondiciones:**
 - El usuario **NO** debe tener una cuenta creada.
