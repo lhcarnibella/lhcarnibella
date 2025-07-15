@@ -2,7 +2,7 @@
 
 **ID:** TC-001  
 **Nombre:** Login con credenciales válidas  
-**Funcionalidad:** Inicio de sesión  
+**Funcionalidad:** Login 
 **Prioridad:** Alta  
 **Precondiciones:**
 - El usuario debe tener una cuenta creada previamente.
