@@ -34,7 +34,7 @@ Habilidades de Liderazgo:
 
 🚀 En camino a QA Automation:
 
-Actualmente estoy estudiando Cypress, como primer paso formal en la automatización de pruebas. También estoy fortaleciendo mis conocimientos en:
+Actualmente estoy creando mis primeros proyectos en Playwright, como primer paso formal en la automatización de pruebas. También estoy fortaleciendo mis conocimientos en:
 
 * **Fundamentos de JavaScript.**
 
@@ -53,6 +53,8 @@ Actualmente estoy estudiando Cypress, como primer paso formal en la automatizaci
 * **LinkedIn: https://www.linkedin.com/in/leandrohcarnibella.**
 
 * **Correo: leandrocarnibella@gmail.com.**
+
+* **Web: www.leandrocarnibella.com**
 
 📌 Proyectos destacados
 (En construcción – próximamente agregaré casos reales de testing, documentación y avances en automatización)
