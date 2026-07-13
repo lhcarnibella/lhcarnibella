@@ -1,62 +1,129 @@
 ## Hola, soy Leandro 👋
-QA Analyst con más de 10 años de experiencia asegurando la calidad de aplicaciones web, móviles y de escritorio en entornos complejos. A lo largo de mi carrera me desempeñé tanto en roles técnicos como de liderazgo, liderando equipos de soporte y mentoring de perfiles junior.
+QA Engineer con más de 13 años de experiencia asegurando la calidad de aplicaciones web, APIs y bases de datos en entornos ágiles y de alta complejidad. A lo largo de mi carrera trabajé en roles técnicos y de referencia, coordinando equipos y mentoreando perfiles junior.
 
-🔍 Apasionado por los detalles, la mejora continua y el trabajo en equipo. Hoy estoy enfocado en seguir creciendo hacia el mundo de la automatización de pruebas.
+Hoy estoy expandiendo mi perfil hacia la **automatización de pruebas** e **integración de agentes de IA en flujos de QA** — construyendo proyectos reales como parte de ese crecimiento.
 
-🧰 Herramientas y Tecnologías que manejo:
+---
 
-Pruebas Manuales:
+## 🧰 Stack & Herramientas
 
-* **Diseño y ejecución de planes de prueba:** funcionales, regresión, integración, smoke, usabilidad.
+**Testing Manual**
+- Diseño y ejecución de planes de prueba: funcionales, regresión, 
+  integración, smoke y usabilidad
+- Testing de APIs: Bruno, Postman, Swagger
+- Validaciones ETL y pruebas de base de datos: SQL Server, MySQL, 
+  MongoDB, DynamoDB
+- Observabilidad y análisis de logs: Kibana
 
-* **Testing de APIs:** Postman, Bruno, Swagger.
+**Automatización (en construcción activa)**
+- Playwright + TypeScript — framework E2E con arquitectura POM
+- Patrones: Page Object Model, fixtures custom, data centralizada
+- Control de versiones: Git — flujo con Conventional Commits
 
-* **Validaciones ETL, pruebas con SQL Server, MySQL, MongoDB, DynamoDB.**
+**Gestión y Colaboración**
+- Jira, Zephyr, Xray, Confluence
+- CI/CD: Docker, Git, Azure Data Studio
+- Testing cross-browser: BrowserStack, DevTools
 
-* **Observabilidad y análisis de logs:** Kibana.
+---
 
-Colaboración y Gestión:
+## 🚀 Proyectos
 
-* **Herramientas:** Jira, Zephyr, Xray, Confluence.
+### [`homebanking-automation-playwright`](https://github.com/lhcarnibella/homebanking-automation-playwright)
+Framework E2E construido desde cero con **Playwright + TypeScript** 
+sobre una aplicación homebanking demo.
 
-* **CI/CD básico:** Docker, Git, Azure Data Studio.
+Incluye:
+- Arquitectura POM con Page Objects por módulo
+- Fixture de autenticación reutilizable
+- Test data centralizada (usuarios, cuentas, reglas de negocio, mensajes)
+- Suites: Login, navegación parametrizada, transferencias, plazos fijos
+- Utilidades custom (`regexHelpers`) para manejo de assertions dinámicas
 
-* **Testing cross-browser:** BrowserStack, DevTools.
+> Proyecto en desarrollo activo — nuevos módulos y cobertura en progreso.
 
-Habilidades de Liderazgo:
+---
 
-* **Coordinación de equipos de soporte y QA.**
+## 🌱 Próximamente
 
-* **Mentoría a testers junior.**
+- Integración CI/CD al framework de automatización
+- Repositorio de **agentes de IA aplicados a QA**
 
-* **Participación activa en dailys, planificación ágil y mejora de procesos.**
-  
+---
 
-🚀 En camino a QA Automation:
+## 📫 Contacto
 
-Actualmente estoy creando mis primeros proyectos en Playwright, como primer paso formal en la automatización de pruebas. También estoy fortaleciendo mis conocimientos en:
+- 💼 [LinkedIn](https://www.linkedin.com/in/leandrohcarnibella)
+- 📧 leandrocarnibella@gmail.com
+- 🌐 [leandrocarnibella.com](https://www.leandrocarnibella.com)
 
-* **Fundamentos de JavaScript.**
+---
 
-* **Integración de pruebas automatizadas en entornos CI.**
+---
 
-* **Patrones de diseño aplicados a testing** (como Page Object Model).
+# Hi, I'm Leandro 👋
 
-🌱 Busco colaborar en
-* **Proyectos donde pueda aplicar mi experiencia en QA manual.**
+QA Engineer with 13+ years of experience in web application testing, 
+API testing, and database validation across complex, agile environments. 
+Throughout my career I've worked in both hands-on technical roles and 
+reference roles, coordinating teams and mentoring junior testers.
 
-* **Iniciativas donde empezar a practicar y aplicar automatización.**
+I'm currently expanding my profile into **test automation** and 
+**AI agent integration for QA workflows** — building real projects 
+as part of that growth.
 
-* **Equipos que valoren el trabajo en conjunto, la documentación clara y la mejora continua.**
+---
 
-📫 Contacto
-* **LinkedIn: https://www.linkedin.com/in/leandrohcarnibella.**
+## 🧰 Stack & Tools
 
-* **Correo: leandrocarnibella@gmail.com.**
+**Manual Testing**
+- Test plan design and execution: functional, regression, integration, 
+  smoke, and usability
+- API testing: Bruno, Postman, Swagger
+- ETL validation and database testing: SQL Server, MySQL, MongoDB, DynamoDB
+- Observability and log analysis: Kibana
 
-* **Web: www.leandrocarnibella.com**
+**Automation (actively building)**
+- Playwright + TypeScript — E2E framework with POM architecture
+- Patterns: Page Object Model, custom fixtures, centralized test data
+- Version control: Git — Conventional Commits workflow
 
-📌 Proyectos destacados
-(En construcción – próximamente agregaré casos reales de testing, documentación y avances en automatización)
+**Collaboration & Management**
+- Jira, Zephyr, Xray, Confluence
+- CI/CD: Docker, Git, Azure Data Studio
+- Cross-browser testing: BrowserStack, DevTools
+
+---
+
+## 🚀 Projects
+
+### [`homebanking-automation-playwright`](https://github.com/lhcarnibella/homebanking-automation-playwright)
+E2E framework built from scratch using **Playwright + TypeScript** 
+on a homebanking demo application.
+
+Includes:
+- POM architecture with module-level Page Objects
+- Reusable authentication fixture
+- Centralized test data (users, accounts, business rules, messages)
+- Test suites: Login, parameterized navigation, transfers, fixed terms
+- Custom utilities (`regexHelpers`) for dynamic assertion handling
+
+> Actively in development — new modules and coverage in progress.
+
+---
+
+## 🌱 Coming soon
+
+- CI/CD integration for the automation framework
+- Repository focused on **AI agents applied to QA**
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/leandrohcarnibella)
+- 📧 leandrocarnibella@gmail.com
+- 🌐 [leandrocarnibella.com](https://www.leandrocarnibella.com)
+
 
 
