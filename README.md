@@ -16,9 +16,26 @@ Hoy estoy expandiendo mi perfil hacia la **automatización de pruebas** e **inte
 - Observabilidad y análisis de logs: Kibana
 
 **Automatización (en construcción activa)**
-- Playwright + TypeScript — framework E2E con arquitectura POM
-- Patrones: Page Object Model, fixtures custom, data centralizada
-- Control de versiones: Git — flujo con Conventional Commits
+* Playwright + TypeScript — frameworks E2E y API con arquitectura POM
+* Patrones: Page Object Model, fixtures custom, data centralizada, utilidades reutilizables
+* CI/CD: GitHub Actions (pipelines cross-browser)
+* Calidad de código: ESLint, Prettier
+* Control de versiones: Git — flujo con Conventional Commits
+
+`homebanking-automation-playwright`
+Framework E2E completo construido con Playwright + TypeScript sobre una aplicación homebanking demo.
+Incluye:
+
+* Arquitectura POM con Page Objects por módulo
+* Fixture de autenticación reutilizable
+* Test data centralizada (usuarios, cuentas, reglas de negocio, mensajes)
+* Suites: Login, navegación parametrizada, transferencias, plazos fijos (con verificación matemática de cálculo de intereses)
+* CI/CD con GitHub Actions (Chromium + Firefox), ESLint + Prettier configurados
+* Documentación bilingüe (ES/EN) con decisiones de arquitectura y known issues
+
+`homebanking-api-automation-playwright`
+Framework de API testing con Playwright + TypeScript, sobre la API REST del mismo dominio homebanking.
+En desarrollo activo.
 
 **Gestión y Colaboración**
 - Jira, Zephyr, Xray, Confluence
@@ -84,9 +101,26 @@ as part of that growth.
 - Observability and log analysis: Kibana
 
 **Automation (actively building)**
-- Playwright + TypeScript — E2E framework with POM architecture
-- Patterns: Page Object Model, custom fixtures, centralized test data
+- Playwright + TypeScript — E2E & API frameworks with POM architecture
+- Patterns: Page Object Model, custom fixtures, centralized test data, reusable utils
+- CI/CD: GitHub Actions (pipelines cross-browser)
+- Code quality ESLint, Prettier
 - Version control: Git — Conventional Commits workflow
+
+  `homebanking-automation-playwright`
+A complete end-to-end (E2E) testing framework built with Playwright and TypeScript on a demo home banking application.
+Includes:
+
+* POM architecture with Page Objects per module
+* Reusable authentication fixture
+* Centralized test data (users, accounts, business rules, messages)
+* Test suites: Login, parameterized navigation, transfers, time deposits (with mathematical verification of interest calculations)
+* CI/CD with GitHub Actions (Chromium + Firefox), ESLint + Prettier configured
+* Bilingual documentation (ES/EN) with architectural decisions and known issues
+
+`homebanking-api-automation-playwright`
+An API testing framework using Playwright and TypeScript, based on the REST API of the same home banking domain.
+Currently under active development.
 
 **Collaboration & Management**
 - Jira, Zephyr, Xray, Confluence
