@@ -54,8 +54,8 @@ Pipeline multi-agente construido con Claude Code que genera estrategias de testi
 - El backend nunca se infiere solo a partir de la UI
 - Validado con un caso de prueba end-to-end
 
-**[k6-petstore](https://github.com/lhcarnibella/k6-petstore)** *(en progreso)*
-Práctica de load testing multi-step con K6 sobre JPetStore: flujo de login con correlación de tokens dinámicos, manejo de sesión vía cookies, y un recorrido completo de e-commerce (navegar catálogo, ver producto, agregar al carrito, checkout). Incluye una investigación documentada de un problema sin resolver en la confirmación de checkout del sitio de demo.
+**[k6-petstore](https://github.com/lhcarnibella/k6-petstore)**
+Load testing multi-step con K6 sobre un flujo de e-commerce demo de JPetStore: login con correlación de tokens dinámicos, datos de catálogo parametrizados (28 items), arquitectura reutilizable, stress testing progresivo, y un pipeline de GitHub Actions con smoke tests automáticos y corridas de carga a demanda.
 
 ## 🌱 Próximamente
 
@@ -126,8 +126,8 @@ Multi-agent pipeline built with Claude Code that generates manual QA test strate
 - Backend is never inferred from the UI alone
 - Validated with an end-to-end test case
 
-**[k6-petstore](https://github.com/lhcarnibella/k6-petstore)** *(in progress)*
-Multi-step load testing practice with K6 on JPetStore: login flow with dynamic token correlation, session handling via cookies, and a full e-commerce user journey (browse catalog, view product, add to cart, checkout). Includes a documented investigation of an unresolved checkout confirmation issue on the demo site.
+**[k6-petstore](https://github.com/lhcarnibella/k6-petstore)**
+Multi-step load testing with K6 on a JPetStore demo e-commerce flow: login with dynamic token correlation, parameterized catalog data (28 items), a reusable flow architecture, progressive stress testing, and a GitHub Actions pipeline with automatic smoke tests and on-demand load runs.
 
 ## 🌱 Coming soon
 
